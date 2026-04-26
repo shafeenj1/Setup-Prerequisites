@@ -153,4 +153,4 @@ After the installation finishes, osTicket should be ready to use. Before diving 
 
 <h2>osTicket Installed!</h2>
 
-osTicket is now installed and ready for use. I used this setup to learn how ticketing systems operate and how to handle and resolve support requests. In IT support roles, working with a team to address users’ technical issues through a ticketing system is essential. This lab provided hands-on experience building a ticketing system from scratch and helped establish a foundation for the work I’ll be doing in the future.
+osTicket is now fully set up and ready for use. I used it to learn how ticketing systems function and how to handle and resolve support tickets. In IT support roles, teamwork is essential for addressing users’ technical issues through a ticketing system. This lab helped me build one from scratch, giving me a solid foundation for the kind of work I’ll be doing moving forward.
