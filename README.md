@@ -141,7 +141,8 @@ In the osTicket browser window, fill in the required information to complete the
 <br />
 
 <p>
-<img src="https://i.imgur.com/3nczMAD.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1518" height="837" alt="image" src="https://github.com/user-attachments/assets/09e37be2-93d4-4906-b8b1-d668b71a3289" />
+
 <img src="https://i.imgur.com/7V2YmH6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
