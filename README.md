@@ -128,7 +128,7 @@ In the osTicket browser window, fill in the required information to complete the
 <img src="https://i.imgur.com/7V2YmH6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
-After everything is done, osTicket should now be installed! Before continuing to use osTicket, some clean up has to be done. First, delete the setup folder found in C:\inetpub\wwwroot\osTicket. Next, return to C:\inetpub\wwwroot\osTicket\include and change the permissions of the ost-config.php file. The file should no longer have full access to Everyone. Revert the permissions to "Read" only. 
+Once the installation is complete, osTicket should be up and running. Before you start using it, perform a bit of cleanup. Begin by deleting the setup folder located in C:\inetpub\wwwroot\osTicket. Then go back to C:\inetpub\wwwroot\osTicket\include and update the permissions for the ost-config.php file. Remove the full access granted to Everyone and set the permissions back to read-only. 
 </p>
 <br />
 
