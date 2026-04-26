@@ -121,7 +121,8 @@ Before proceeding with the osTicket installation, you’ll need to rename a file
 <br />
 
 <p>
-<img src="https://i.imgur.com/zExrqYG.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1528" height="837" alt="image" src="https://github.com/user-attachments/assets/a5356255-b5a5-4451-a6ae-45ff059e74f4" />
+
 <img src="https://i.imgur.com/PiJMYZ6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
