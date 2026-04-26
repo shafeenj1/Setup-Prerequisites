@@ -17,7 +17,7 @@ In this lab, I set up osTicket from scratch using the required installation file
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (21H2)
+- Windows 10 Pro</b>
 
 
 <h2>Installation Steps</h2>
@@ -26,7 +26,7 @@ In this lab, I set up osTicket from scratch using the required installation file
 <img src="https://i.imgur.com/m6Bek7Y.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
-Before installing any files, Internet Information Services (IIS) needs to be enabled. We are installing osTicket locally and it needs IIS in order to function. To turn on IIS, open the Control Panel. From the Control Panel, open Programs and and Turn Windows Features On or Off. Within this menu, expand Internet Information Services, expand Web Management Tools and enable IIS Management Console. Click and expand World Wide Web Services and expand Application Development Features. In Application Development Features, enable CGI and click ok to confirm.
+Before installing any files, you need to enable Internet Information Services (IIS), since osTicket requires IIS to run locally. To do this, open the Control Panel, then go to Programs and select “Turn Windows features on or off.” In that window, expand Internet Information Services, then expand Web Management Tools and check IIS Management Console. Next, expand World Wide Web Services, then Application Development Features, and enable CGI. Click OK to apply the changes.
 </p>
 <br />
 
