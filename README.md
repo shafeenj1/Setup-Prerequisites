@@ -59,7 +59,8 @@ Next, download and install VC_redist.x86.exe from the installation files folder.
 <br />
 
 <p>
-<img src="https://i.imgur.com/UW2eIpW.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f73dbd14-f3e0-4fd2-aae0-bd907e393e20" />
+
 </p>
 <p>
 Next, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files. During the setup process, accept the license agreement, choose the Typical installation option, and proceed with the install. Once installation is complete, open the Configuration Wizard. Select Standard Configuration, enable the option to install MySQL as a Windows Service, and ensure that the server is set to launch automatically. When prompted for credentials, use root as the username and Password1 as the password. While real-world environments should use stronger, less predictable credentials, these defaults are sufficient for this lab.
