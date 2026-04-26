@@ -132,7 +132,8 @@ Download and install HeidiSQL from the provided installation files. After launch
 <br />
 
 <p>
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ee667e4a-f4f8-43d2-8370-f40a8d2bae23" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3a34e0ab-1315-4b5d-a6dc-279f5280075c" />
+ 
 
 </p>
 <p>
