@@ -119,7 +119,7 @@ Download and install HeidiSQL from the provided installation files. After launch
 <img src="https://i.imgur.com/gOqjR1k.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
-Within osTicket browser window, enter the necessary details to set up osTicket. For the MySQL database, use the credentials used for MySQL and HeidiSQL.
+In the osTicket browser window, fill in the required information to complete the setup. When prompted for the MySQL database details, use the same credentials you configured for MySQL and in HeidiSQL.
 </p>
 <br />
 
