@@ -41,7 +41,8 @@ Once IIS is enabled, download and install PHP Manager for IIS (PHPManagerforIIS_
 <br />
 
 <p>
-<img src="https://i.imgur.com/neliVrg.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1508" height="776" alt="image" src="https://github.com/user-attachments/assets/8f53bc35-254a-43bd-a08b-a8ae63e238ee" />
+
 </p>
 <p>
 Once the Rewrite Module is installed, create a new directory named C:\PHP on the Windows (C:) drive. This directory will be used to hold the extracted files from the PHP 7.3.8 archive (php-7.3.8-nts-Win32-VC15-x86.zip) downloaded from the installation files. Unzip the archive and place all of its contents into the C:\PHP folder.
