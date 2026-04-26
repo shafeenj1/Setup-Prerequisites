@@ -75,7 +75,7 @@ Next, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the instal
 <img src="https://i.imgur.com/KoK1Lug.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
-Before installing osTicket, configurations need to be made within IIS. Open IIS as an admin and select PHP Manager. Within PHP Manager, select Register new PHP version. Select Browse and select the PHP CGI executable file (php-cgi.exe) within the PHP folder created earlier in the lab. After registering the PHP version, reload the IIS server within the management console.
+Before installing osTicket, you first need to configure settings in IIS. Launch IIS with administrative privileges and open PHP Manager. From there, click “Register new PHP version,” then browse to the PHP folder you created earlier and select the php-cgi.exe file. Once the PHP version is registered, restart the IIS server through the management console to apply the changes.
 </p>
 <br />
 
