@@ -101,7 +101,8 @@ Download osTicket v1.15.8 from the installation package. After extracting the fi
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b3ddabbf-b162-4ee5-ba74-13fa36643043" />
 
-<img src="https://i.imgur.com/Mpq7ybU.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1226" height="673" alt="image" src="https://github.com/user-attachments/assets/4fd61a4a-1ecd-412b-a602-1a18a0265df4" />
+
 </p>
 <p>
 In the IIS console, go to Sites, then Default, and select osTicket. Click “Browse *:80” to open the osTicket installation page. You may see that some required extensions are not enabled yet. To address this, open PHP Manager within the osTicket section of IIS and select “Enable or disable an extension.” Then enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll.
