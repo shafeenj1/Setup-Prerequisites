@@ -9,10 +9,11 @@ In this lab, I set up osTicket from scratch using the required installation file
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Internet Information Services (IIS)
+- Microsoft Azure (Virtual Machines/Compute)
 - MySQL
+- Internet Information Services
+
 
 <h2>Operating Systems Used </h2>
 
