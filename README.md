@@ -68,7 +68,8 @@ Next, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the instal
 <br />
 
 <p>
-<img src="https://i.imgur.com/UW2eIpW.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1509" height="770" alt="image" src="https://github.com/user-attachments/assets/8e3030f3-ea69-4566-bb7b-009793ad14d3" />
+
 </p>
 <p>
 Next, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files. Within the MySQL setup wizard, click "I agree" and select a Typical install and Install. Launch the Configuration Wizard after the installation. Select Standard Configuration and select Install As Windows Service and make sure Launch the MySQL Server automatically is checked. For credentials, the username will be root and the password is Password1. In a practical setting, the credentials will be decided by the user. For the purposes of this lab, the standard credentials root and Password1 will do.
