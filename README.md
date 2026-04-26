@@ -97,7 +97,8 @@ Download osTicket v1.15.8 from the installation package. After extracting the fi
 <br />
 
 <p>
-<img src="https://i.imgur.com/s856Cpz.png" height="80%" width="80%" alt="Installation Steps"/>
+<img width="1509" height="773" alt="image" src="https://github.com/user-attachments/assets/4529ff3a-79e6-4fad-82b3-cec4d9ed1e42" />
+
 <img src="https://i.imgur.com/pNkLVo6.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/Mpq7ybU.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
