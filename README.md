@@ -102,7 +102,7 @@ In the IIS console, go to Sites, then Default, and select osTicket. Click “Bro
 <img src="https://i.imgur.com/5ggnkk9.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
-Before continuing to install osTicket, a file needs to be renamed as well as have its permissions changed. From C:\inetpub\wwwroot\osTicket\include, rename ost-sampleconfig.php to ost-config.php. The newly named ost-config.php will have its permissions changed. Open its Properties and change the following permissions: Disable inheritence -> Remove All and New Permissions -> Everyone -> All.
+Before proceeding with the osTicket installation, you’ll need to rename a file and update its permissions. In the directory C:\inetpub\wwwroot\osTicket\include, rename ost-sampleconfig.php to ost-config.php. Then, open the Properties for the new ost-config.php file and adjust its permissions by disabling inheritance, removing all existing entries, and adding a new permission that grants Everyone full access.
 </p>
 <br />
 
